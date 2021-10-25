@@ -10,6 +10,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/astrojuanlu/tutorial-sphinx-markdown/main?filepath=slides.ipynb)
 
+Static slides available on [nbviewer](https://nbviewer.org/format/slides/github/astrojuanlu/tutorial-sphinx-markdown/blob/main/slides.ipynb).
+
 To clone locally:
 
 ```
