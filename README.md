@@ -17,3 +17,9 @@ To clone locally:
 ```
 $ git clone --recursive https://github.com/astrojuanlu/tutorial-sphinx-markdown.git
 ```
+
+All the steps and notes of the tutorial are available on `NOTES.md`.
+
+The [`tutorial-steps` branch](https://github.com/astrojuanlu/lumache/tree/tutorial-steps) of `lumache`
+contains the finished version of the tutorial, with all the intermediate commits.
+You can use it for guidance if you get lost.
