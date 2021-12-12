@@ -1,6 +1,6 @@
 # Notes
 
-## 1. Creating your Sphinx project (15 minutes) (14:30-
+## 1. Creating your Sphinx project (15 minutes)
 
 1. Introduction (5 minutes)
 2. Recommend gitpod.io, which is free - GitHub Codespaces doesn't work for everybody
@@ -12,7 +12,7 @@
 ```
 [project.optional-dependencies]
 doc = [
-    "sphinx~=4.2.0",
+    "sphinx~=4.3.0",
 ]
 ```
 
