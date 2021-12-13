@@ -8,18 +8,18 @@
 > leveraging Markdown and Jupyter notebooks, and we will deploy the result to
 > Read the Docs.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/astrojuanlu/tutorial-sphinx-markdown/main?filepath=slides.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/readthedocs/tutorial-sphinx-markdown/main?filepath=slides.ipynb)
 
-Static slides available on [nbviewer](https://nbviewer.org/format/slides/github/astrojuanlu/tutorial-sphinx-markdown/blob/main/slides.ipynb).
+Static slides available on [nbviewer](https://nbviewer.org/format/slides/github/readthedocs/tutorial-sphinx-markdown/blob/main/slides.ipynb).
 
 To clone locally:
 
 ```
-$ git clone --recursive https://github.com/astrojuanlu/tutorial-sphinx-markdown.git
+$ git clone --recursive https://github.com/readthedocs/tutorial-sphinx-markdown.git
 ```
 
 All the steps and notes of the tutorial are available on `NOTES.md`.
 
-The [`tutorial-steps` branch](https://github.com/astrojuanlu/lumache/tree/tutorial-steps) of `lumache`
+The [`tutorial-steps` branch](https://github.com/readthedocs/tutorial-sphinx-markdown-library/tree/tutorial-steps) of the example library
 contains the finished version of the tutorial, with all the intermediate commits.
 You can use it for guidance if you get lost.
