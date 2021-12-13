@@ -1,3 +1,5 @@
 [submodule "code"]
 	path = code
 	url = https://github.com/astrojuanlu/lumache.git
+[submodule "code/"]
+	url = https://github.com/readthedocs/tutorial-sphinx-markdown-library.git
